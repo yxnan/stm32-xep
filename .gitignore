@@ -1,0 +1,11 @@
+_build/
+build/
+.mxproject
+.clangd/
+.cache/
+compile_commands.json
+compile_flags.txt
+*.sublime-*
+.vs/
+output/
+Core/
